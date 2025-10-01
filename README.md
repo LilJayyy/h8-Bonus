@@ -17,7 +17,7 @@ Alla kaikki bonustehtävät, jotka kerkesin tekemään:
 
 [h6-Salataampa](https://github.com/LilJayyy/h6-Salataampa/blob/main/Palautus.md)
 
-[h8-Bonus] (https://github.com/LilJayyy/h8-Bonus/blob/main/README.md)
+[h8-Bonus](https://github.com/LilJayyy/h8-Bonus/blob/main/README.md)
 
 ## b) Parannetut tehtävät
 
